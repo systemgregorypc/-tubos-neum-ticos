@@ -21,11 +21,15 @@ por el mejoramiento y licenciacion legal de la maquina y app programacionen base
 
 Tubo Pequeña. 47 x 15 x 13 cm.
 
-Tubo mediana 
+Tubo mediana :
 
-Tubo grande 
+Tubo grande :
 
-Tubo extra grande 
+Tubo extra grande :
+
+Tubo trasporte humano ( diseño 2023) 
+
+Tubo traspote red de trenes (inventó en 1870) 
 
 3)red debe comenzar desde la cada del beneficiario 
 
@@ -33,7 +37,7 @@ el agente humano o maquina IA  dron deja la mecancia en la red puerta de la dire
 
 mensajeria app notificar el paquete fueentregado y esta en la residencia 
 
-# para envios paqueteria y trasforpe de humanos y mercancia grande (trenes) 
+# para envios paqueteria y trasporte de humanos y mercancia grande (trenes) 
 
 
 @ 2023 
