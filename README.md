@@ -5,7 +5,7 @@ inventor y historia William Murdoch  nacio en 1754 invento varios diseños y maq
 link https://es.wikipedia.org/wiki/William_Murdoch 
 
 actualizacion tecnologia 
-por parte e jose grgorio hernandez calderon nacio en 1982 ,inventor y renovador de tecnologia programador y eletronica 
+por parte e jose gregorio hernandez calderon nacio en 1982 ,inventor y renovador de tecnologia programador y eletronica 
 mejoro la tecnologia de William Murdoch  para ser usada en la area siglo 21 , año 2023 firma empresa system grgory pc notifico a github.com 
 por el mejoramiento y licenciacion legal de la maquina y app programacionen base en ada programs (Ada Programming Language.)
 
