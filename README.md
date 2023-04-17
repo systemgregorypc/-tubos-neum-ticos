@@ -37,8 +37,8 @@ el agente humano o maquina IA  dron deja la mecancia en la red puerta de la dire
 
 mensajeria app notificar el paquete fueentregado y esta en la residencia 
 
-# para envios paqueteria y trasporte de humanos y mercancia grande (trenes) 
-
+# para envios paqueteria y trasporte de humanos e mercancia grande (trenes) 
+objetos pequeños, paquetes pequeños,  parquetes medianos y grandes y como dinero en algunos hipermercados,  "mover" personas de un punto a otro de una ciudad atestada de tráfico. Veamos cuál es el fundamento de uno de estos tubos neumáticos.
 
 @ 2023 
 
